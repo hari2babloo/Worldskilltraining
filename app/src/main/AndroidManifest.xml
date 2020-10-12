@@ -20,24 +20,23 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".CheckConnection">
-
+        <activity android:name=".Okhttppost">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-        </activity>
-        <activity android:name=".Testt">
 
         </activity>
+        <activity android:name=".OKhttppractce">
+
+        </activity>
+        <activity android:name=".OKhttp"></activity>
+        <activity android:name=".CheckConnection" />
+        <activity android:name=".Testt" />
         <activity android:name=".Recyclerviewtest" />
-        <activity android:name=".Recycler"></activity>
-        <activity android:name=".Dropdown">
-
-
-
-        </activity>
+        <activity android:name=".Recycler" />
+        <activity android:name=".Dropdown" />
         <activity android:name=".CameraWork" />
         <activity android:name=".Contact" />
         <activity android:name=".Page2" />
